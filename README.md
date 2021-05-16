@@ -1,1 +1,15 @@
 # VelocityModelParticles-Processing-Java
+ Move particles with the velocity system in 2D created for the subject of Simulation (3th grade of Multimedia engineering) in Valencia University (Spain).
+
+## Getting Start 🚀
+ You need to install processing (https://processing.org/) for running.
+
+## Authors ✒️
+ This project was created by:
+
+ Assum Campos - assumcampos 
+ Email: assumcampos@gmail.com 
+ Portfolio: http://mural.uv.es/mascam/AssumCampos/html/index.html
+ 
+## License 📄
+ License - Look the LICENSE.md for more details
